@@ -4,7 +4,7 @@
   <ul>
   <li>
 
-v-if | v-on | v-model | methods | data | v-for | v-show | v-bing
+v-if | v-on | v-model | methods | data | v-for | v-show | v-bind
 
   </li>
   <li>
